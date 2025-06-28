@@ -1,0 +1,61 @@
+/usr/bin/python3: can't open file '/root/cecuri/dark_web/dark_web_scraper.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/root/cecuri/dark_web/dark_web_scraper.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/root/cecuri/dark_web/dark_web_scraper.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "/root/cecuri/dark_web/davis.py", line 51, in <module>
+    DEFAULT_DATABASE = config['Ako']['db']
+  File "/usr/lib/python3.9/configparser.py", line 960, in __getitem__
+    raise KeyError(key)
+KeyError: 'Ako'
+Traceback (most recent call last):
+  File "/root/cecuri/dark_web/davis.py", line 51, in <module>
+    DEFAULT_DATABASE = config['Ako']['db']
+  File "/usr/lib/python3.9/configparser.py", line 960, in __getitem__
+    raise KeyError(key)
+KeyError: 'Ako'
+Traceback (most recent call last):
+  File "/root/cecuri/dark_web/davis.py", line 51, in <module>
+    DEFAULT_DATABASE = config['Ako']['db']
+  File "/usr/lib/python3.9/configparser.py", line 960, in __getitem__
+    raise KeyError(key)
+KeyError: 'Ako'
+Traceback (most recent call last):
+  File "/root/cecuri/dark_web/davis.py", line 51, in <module>
+    DEFAULT_DATABASE = config['Ako']['db']
+  File "/usr/lib/python3.9/configparser.py", line 960, in __getitem__
+    raise KeyError(key)
+KeyError: 'Ako'
+Traceback (most recent call last):
+  File "/root/cecuri/dark_web/davis.py", line 51, in <module>
+    DEFAULT_DATABASE = config['Ako']['db']
+  File "/usr/lib/python3.9/configparser.py", line 960, in __getitem__
+    raise KeyError(key)
+KeyError: 'Ako'
+Traceback (most recent call last):
+  File "/root/cecuri/dark_web/davis.py", line 52, in <module>
+    DEFAULT_DATABASE = config['Ako']['db']
+  File "/usr/lib/python3.9/configparser.py", line 960, in __getitem__
+    raise KeyError(key)
+KeyError: 'Ako'
+Traceback (most recent call last):
+  File "/root/cecuri/dark_web/davis.py", line 52, in <module>
+    DEFAULT_DATABASE = config['Ako']['db']
+  File "/usr/lib/python3.9/configparser.py", line 960, in __getitem__
+    raise KeyError(key)
+KeyError: 'Ako'
+Traceback (most recent call last):
+  File "/root/cecuri/dark_web/davis.py", line 52, in <module>
+    DEFAULT_DATABASE = config['Ako']['db']
+  File "/usr/lib/python3.9/configparser.py", line 960, in __getitem__
+    raise KeyError(key)
+KeyError: 'Ako'
+pkill: only one pattern can be provided
+Try `pkill --help' for more information.
+/bin/sh: 1: ./davis.py: not found
+/bin/sh: 1: root: not found
+Traceback (most recent call last):
+  File "/root/cecuri/dark_web/davis.py", line 52, in <module>
+    DEFAULT_DATABASE = config['Ako']['db']
+  File "/usr/lib/python3.9/configparser.py", line 960, in __getitem__
+    raise KeyError(key)
+KeyError: 'Ako'
